@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:appto/screen/homepage.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
